@@ -1,5 +1,5 @@
 # INFM600_Team5
-Repository for Group project in INST600 for Team 5
+Repository for Group project in INST600 for Team 5<br/>
 Members: Matthew Chan, Jonathan Ha, Michael Rakhamimov, and Tanishq Kaushik
 
 Figma App/Website Link<br/>
